@@ -6,6 +6,7 @@ public class First {
 
 		// FC
 		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 
 }
